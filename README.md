@@ -53,12 +53,12 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e transformar id
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>💼 Portfolio</h3>
-      <p>Meu repositório de perfil e portfólio pessoal no GitHub, showcasing meus projetos e habilidades.</p>
+      <h3>💼 ReadMe</h3>
+      <p>Perfil profissional com informações sobre projetos, habilidades e experiências em desenvolvimento</p>
       <a href="https://github.com/ocastroxs/ocastroxx">
         <img src="https://img.shields.io/badge/Ver_Projeto-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
       </a>
-    </td>
+  </td>
   </tr>
 </table>
 
